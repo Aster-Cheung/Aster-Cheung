@@ -1,6 +1,6 @@
 ## Hi there! My name is Aster 👋
 
-🌱 Majoring in computer engineering, minoring in Chinese Studies at Kennesaw State University. <br/>
+🌱 Majoring in electrical engineering, minoring in Chinese Studies at Kennesaw State University. <br/>
 ⚡ Undergraduate Researcher, a Honors Peer Mentor, a Supplemental Instruction Leader at Kennesaw State University and a mentor at Village Book Builders <br/>
 
 ## Tech Skills
