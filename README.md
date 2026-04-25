@@ -1,7 +1,22 @@
 ## Hi there! My name is Aster 👋
 
-🌱 Majoring in electrical engineering, minoring in Chinese Studies at Kennesaw State University. <br/>
-⚡ Undergraduate Researcher, a Honors Peer Mentor, a Supplemental Instruction Leader at Kennesaw State University and a mentor at Village Book Builders <br/>
+🌱 Majoring in electrical engineering, minoring in Chinese Studies at Kennesaw State University (KSU). <br/>
+
+## Leadership
+### Present (Internal)
+- Undergraduate Research Assistant
+- Honors Peer Mentor at KSU Journey Honors College
+- Secretary for Society of Women Engineers at KSU
+- Team Lead for Bulletin Board Project for IEEE HKN Honors Society KSU
+
+### Present (External)
+- AI / ML Fellow at Cornell Tech, Cornell University
+
+### Past
+- Suppemental Instruction Leader at KSU
+- Mentor at Village Book Builders
+
+
 
 ## Tech Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
