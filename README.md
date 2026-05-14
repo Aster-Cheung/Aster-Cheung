@@ -34,6 +34,16 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+## GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aster-Cheung&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Aster-Cheung&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aster-Cheung&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Aster-Cheung&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Aster-Cheung/Aster-Cheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
