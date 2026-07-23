@@ -17,8 +17,8 @@
 - **BS Electrical Engineering** (Honors student) @ **KSU** (GPA: 4.0, graduating May 2028)
 - Machine Learning Foundations e-Certificate @ Cornell Tech (present)
 - Undergraduate Research Assistant
-- Undergraduate Research Peer Ambassador @SPCEET KSU
 - AI / ML Fellow @ Break Through Tech
+- Undergraduate Research Peer Ambassador @SPCEET KSU
 - President of Society of Women Engineers Section D-081 at KSU
 
 
