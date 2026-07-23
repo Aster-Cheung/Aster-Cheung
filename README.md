@@ -11,6 +11,8 @@
   <a href="https://www.linkedin.com/in/aster-cheung/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
+  📧 astercheung2011@gmail.com
 </p>
 
 ## About me
