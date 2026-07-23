@@ -7,7 +7,11 @@
   </a>
 </p>
 
-🌱 Majoring in electrical engineering, minoring in Chinese Studies at Kennesaw State University (KSU). <br/>
+<p align="center">
+  <a href="www.linkedin.com/in/aster-cheung">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ## About me
 Hi, I'm Aster, an Electrical Engineering student exploring the intersection of technology, research, and human-centered innovation to solve meaningful problems.
