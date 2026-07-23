@@ -39,4 +39,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Aster-Cheung&layout=compact&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=Aster-Cheung&layout=compact&langs_count=4&theme=blue_navy)
