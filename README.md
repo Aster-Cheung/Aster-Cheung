@@ -1,5 +1,5 @@
 <img width="4250" height="1150" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/e106ebfa-f98d-48ad-bf4b-a9857e037b0a" />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bridging+Electrical+,Biomedical+Research,+and+AI+to+create+meaningful+impact.)](https://git.io/typing-svg)
 
 🌱 Majoring in electrical engineering, minoring in Chinese Studies at Kennesaw State University (KSU). <br/>
 
