@@ -7,10 +7,10 @@
   </a>
 </p>
 
-<<p align="center">
-  <a href="https://www.linkedin.com/in/aster-cheung/">LinkedIn</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aster-cheung/">https://www.linkedin.com/in/aster-cheung/</a>
   &nbsp;•&nbsp;
-  <a href="mailto:astercheung2011@gmail.com">Email</a>
+  <a href="mailto:astercheung2011@gmail.com">astercheung2011@gmail.com</a>
 </p>
 
 ## About me
