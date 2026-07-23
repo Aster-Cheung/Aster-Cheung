@@ -1,4 +1,5 @@
-<img width="4250" height="1150" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/e106ebfa-f98d-48ad-bf4b-a9857e037b0a" />
+<img width="4250" height="1150" alt="github-header-banner" src="https://github.com/user-attachments/assets/72d8d30c-519c-445c-97b5-91e2081ff5bf" />
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
