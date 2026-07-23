@@ -10,18 +10,12 @@
 🌱 Majoring in electrical engineering, minoring in Chinese Studies at Kennesaw State University (KSU). <br/>
 
 ## About me
-### Present (Internal)
+Hi, I'm Aster, an Electrical Engineering student exploring the intersection of technology, research, and human-centered innovation to solve meaningful problems.
+- BS Electrical Engineering (Honors student) @ **KSU** (GPA: 4.0, graduating May 2028)
 - Undergraduate Research Assistant
-- Honors Peer Mentor at KSU Journey Honors College
-- Secretary for Society of Women Engineers at KSU
-- Team Lead for Bulletin Board Project for IEEE HKN Honors Society KSU
-
-### Present (External)
-- AI / ML Fellow at Break Through Tech (completing AI/ML certification @ Cornell Tech)
-
-### Past
-- Suppemental Instruction Leader at KSU
-- Mentor at Village Book Builders
+- Machine Learning Foundations e-Certificate @ Cornell Tech (present)
+- **AI / ML Fellow** @ Break Through Tech
+- **President** of Society of Women Engineers Section D-081 at KSU
 
 
 ## Coding Skills
@@ -42,18 +36,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Aster-Cheung/Aster-Cheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
