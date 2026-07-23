@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aster-cheung/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
