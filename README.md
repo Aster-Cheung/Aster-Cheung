@@ -1,15 +1,15 @@
 <img width="4250" height="1150" alt="github-header-banner" src="https://github.com/user-attachments/assets/72d8d30c-519c-445c-97b5-91e2081ff5bf" />
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/aster-cheung/">https://www.linkedin.com/in/aster-cheung/</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:astercheung2011@gmail.com">astercheung2011@gmail.com</a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=500&color=7CFC98&lines=EE+Student+%40+KSU+%F0%9F%A6%89;Engineering+with+Purpose+%F0%9F%92%A1;Research.+Build.+Impact+%F0%9F%8C%A0;Bridging+Engineering+and+AI+%E2%9A%A1" alt="Typing SVG" />
   </a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/aster-cheung/">https://www.linkedin.com/in/aster-cheung/</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:astercheung2011@gmail.com">astercheung2011@gmail.com</a>
 </p>
 
 ## About me
