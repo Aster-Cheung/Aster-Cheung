@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=500&lines=Research.+Build.+Impact+💡.;Engineering+with+Purpose+💫 ;Bridging+Engineering+and+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=500&lines=%F0%9F%92%A1+Engineering+with+Purpose;%F0%9F%8C%A0+Research.+Build.+Impact.;%E2%9A%A1+Bridging+Engineering+and+AI" alt="Typing SVG" />
   </a>
 </p>
 
