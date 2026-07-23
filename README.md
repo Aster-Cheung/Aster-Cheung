@@ -1,4 +1,4 @@
-## Hi there! My name is Aster 👋
+<img width="4250" height="1150" alt="github-header-banner" src="https://github.com/user-attachments/assets/acc05c13-62a6-4c3d-ab67-1558fd3f41d2" />
 
 🌱 Majoring in electrical engineering, minoring in Chinese Studies at Kennesaw State University (KSU). <br/>
 
