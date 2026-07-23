@@ -7,12 +7,10 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aster-cheung/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  📧 astercheung2011@gmail.com
+<<p align="center">
+  <a href="https://www.linkedin.com/in/aster-cheung/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:astercheung2011@gmail.com">Email</a>
 </p>
 
 ## About me
