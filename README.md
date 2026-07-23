@@ -1,4 +1,5 @@
-<img width="4250" height="1150" alt="github-header-banner" src="https://github.com/user-attachments/assets/acc05c13-62a6-4c3d-ab67-1558fd3f41d2" />
+<img width="4250" height="1150" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/e106ebfa-f98d-48ad-bf4b-a9857e037b0a" />
+
 
 🌱 Majoring in electrical engineering, minoring in Chinese Studies at Kennesaw State University (KSU). <br/>
 
