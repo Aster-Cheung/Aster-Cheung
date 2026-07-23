@@ -8,7 +8,7 @@
 
 🌱 Majoring in electrical engineering, minoring in Chinese Studies at Kennesaw State University (KSU). <br/>
 
-## Leadership
+## About me
 ### Present (Internal)
 - Undergraduate Research Assistant
 - Honors Peer Mentor at KSU Journey Honors College
