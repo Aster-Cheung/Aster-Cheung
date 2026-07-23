@@ -8,11 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aster-cheung/">
+  <a href="https://www.linkedin.com/in/aster-cheung/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  📧 astercheung2011@gmail.com
+  <a href="mailto:your.email@example.com" style="text-decoration:none;">
+    📧 astercheung2011@gmail.com
+  </a>
 </p>
 
 ## About me
