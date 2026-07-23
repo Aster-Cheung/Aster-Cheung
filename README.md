@@ -21,7 +21,7 @@
 - Undergraduate Research Peer Ambassador @SPCEET KSU
 - President of Society of Women Engineers Section D-081 at KSU
 
-## 👩‍💻 Tech Stack
+## ⚙️ Tech Stack
 <p>
 👩‍💻 Coding Skills
 
