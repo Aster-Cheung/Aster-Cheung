@@ -11,12 +11,12 @@
 
 ## About me
 Hi, I'm Aster, an Electrical Engineering student exploring the intersection of technology, research, and human-centered innovation to solve meaningful problems.
-- BS Electrical Engineering (Honors student) @ **KSU** (GPA: 4.0, graduating May 2028)
+- **BS Electrical Engineering** (Honors student) @ **KSU** (GPA: 4.0, graduating May 2028)
 - Machine Learning Foundations e-Certificate @ Cornell Tech (present)
 - Undergraduate Research Assistant
-- **Undergraduate Research Peer Ambassador** @SPCEET KSU
-- **AI / ML Fellow** @ Break Through Tech
-- **President** of Society of Women Engineers Section D-081 at KSU
+- Undergraduate Research Peer Ambassador @SPCEET KSU
+- AI / ML Fellow @ Break Through Tech
+- President of Society of Women Engineers Section D-081 at KSU
 
 
 ## Coding Skills
