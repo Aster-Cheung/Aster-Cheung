@@ -13,7 +13,7 @@
 </p>
 
 ## About me
-Hi, I'm Aster, an Electrical Engineering student exploring the intersection of technology, research, and human-centered innovation to solve meaningful problems.
+Hi, I'm Aster, an EE student passionate about advancing healthcare technology through biomedical research, artificial intelligence, and engineering innovation. I explore the intersection of these fields to develop human-centered solutions that improve lives and contribute to meaningful impact.
 - **BS Electrical Engineering** (Honors student) @ **KSU** (GPA: 4.0, graduating May 2028)
 - Machine Learning Foundations e-Certificate @ Cornell Tech (present)
 - Undergraduate Research Assistant
