@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/aster-cheung">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+   <img src="https://img.shields.io/badge/Connect%20with%20me-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
