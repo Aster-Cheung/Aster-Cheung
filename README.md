@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## About me
+## 👋 About me
 > Hi, I'm Aster, an EE student passionate about advancing healthcare technology through biomedical research, artificial intelligence, and engineering innovation. I explore the intersection of these fields to develop human-centered solutions that improve lives and contribute to meaningful impact.
 - **BS Electrical Engineering** (Honors student) @ **KSU** (GPA: 4.0, graduating May 2028)
 - Machine Learning Foundations e-Certificate @ Cornell Tech (present)
@@ -22,7 +22,7 @@
 - President of Society of Women Engineers Section D-081 at KSU
 
 
-## Coding Skills
+## 👩‍💻 Coding Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -30,7 +30,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-## Tech Skills
+## 🖥️ Tech Skills
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -39,6 +39,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## Summary
+## 📊 Summary
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Aster-Cheung&layout=compact&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=Aster-Cheung&layout=compact&langs_count=4&theme=blue_navy)
