@@ -10,7 +10,7 @@
 - Team Lead for Bulletin Board Project for IEEE HKN Honors Society KSU
 
 ### Present (External)
-- AI / ML Fellow at Cornell Tech, Cornell University
+- AI / ML Fellow at Break Through Tech (completing AI/ML certification @ Cornell Tech)
 
 ### Past
 - Suppemental Instruction Leader at KSU
