@@ -21,6 +21,21 @@
 - Undergraduate Research Peer Ambassador @SPCEET KSU
 - President of Society of Women Engineers Section D-081 at KSU
 
+## 🔨 What I build
+> Build useful things. Learn continuously. Make an impact.
+
+I love building useful devices and creating technology that has a meaningful impact. GitHub is more than just a place where I store my coding projects. It’s where I document and share projects that bring **software and hardware together**—from experiments and prototypes to practical devices.
+
+My projects often involve platforms such as:
+
+* Raspberry Pi Zero W
+* Raspberry Pi Zero 2 W
+* Raspberry Pi Camera v1.3
+* Embedded systems and hardware projects
+* Software, automation, and coding projects
+
+I enjoy taking an idea from **concept → prototype → working device**, learning along the way, and finding practical ways technology can solve real problems.
+
 ## ⚙️ Tech Stack
 <p>
 👩‍💻 Coding Skills
